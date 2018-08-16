@@ -7,5 +7,3 @@ branch 2 added
 >>>>>>> add branch 2
 
 Hello
-
-world
