@@ -1,0 +1,3 @@
+[submodule "CMToolTest"]
+	path = CMToolTest
+	url = https://github.com/Min-Tala/CMToolTest.git
